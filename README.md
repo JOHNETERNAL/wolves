@@ -1,4 +1,4 @@
-wounds
+wolves
 ======
 
-explore an ice covered land full of history and mystery
+explore an snow and ice covered land full of history, mystery, and treachery
